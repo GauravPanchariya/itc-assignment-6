@@ -1,4 +1,4 @@
-a = input()
+a = input("Enter a string of parentheses")
 isValid = True
 stack = []
 for i in range(0, len(a)):
